@@ -1,0 +1,3 @@
+[submodule "wd-decrypte"]
+	path = wd-decrypte
+	url = https://github.com/SofianeHamlaoui/WD-Decrypte.git
